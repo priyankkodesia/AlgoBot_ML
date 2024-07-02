@@ -1,0 +1,10 @@
+kite_api_secret = "04xnxa3qehzacdggw3evgbhxkk8dse5b"
+kite_api_key = "ye8rerpg2zxmibju"
+PASSPHRASE = "MayburN!@#1810"
+allowed_pnl = 1000
+login_url = f"https://kite.trade/connect/login?v=3&api_key={kite_api_key}"
+console_url = f"https://developers.kite.trade/apps/{kite_api_key}"
+trade_start_time_h = 9
+trade_start_time_m = 15
+trade_end_time_h = 11
+trade_end_time_m = 30
